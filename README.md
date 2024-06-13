@@ -1,10 +1,10 @@
-Libro de  recetas:
+# Libro de  recetas:
 
 Receta: Hamburguesa
 
 Ingredientes:
--Pan
--Torta
--Salsas
--Bacon
--Queso
+- Pan
+- Torta
+- Salsas
+- Bacon
+- Queso
